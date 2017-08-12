@@ -4,3 +4,4 @@ V1 plays random midi & paints random rects
 96/100 Game Informers
 YOU JUST HAVE TO TRY IT
 V2 a normal mixing pad with feature to create own tracks
+ds
